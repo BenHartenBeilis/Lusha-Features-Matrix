@@ -1,0 +1,111 @@
+planName,planCode,planDescription,Pricing Version,planActive,productCode,productName
+Enterprise,enterprise,Enterprise,2.9,TRUE,oktaSso,Okta SSO
+,,,,,saveToBullhorn,Save to Bullhorn
+,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,companyExport,Company Export
+,,,,,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,directDials,Direct Dials
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,apiAccess,API Access
+,,,,,prioritySupport,Priority Support
+Professional,professional,Professional,2.9,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,basicSearch,Basic Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,standardSupport,Standard Support
+Basic,basic,Basic,2.9,TRUE,emailFinder,Email Finder
+,,,,,basicSearch,Basic Search
+,,,,,limitedExport,Limited Export
+Enterprise,enterprise,Enterprise,3.1,TRUE,oktaSso,Okta SSO
+,,,,,saveToBullhorn,Save to Bullhorn
+,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,companyExport,Company Export
+,,,,,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,directDials,Direct Dials
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,apiAccess,API Access
+,,,,,prioritySupport,Priority Support
+,,,,,advancedAnalytics,Advanced Analytics
+,,,,,customIntegrations,Custom Integrations
+Professional,professional,Professional,3.1,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,basicSearch,Basic Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,standardSupport,Standard Support
+,,,,,advancedSearch,Advanced Search
+Basic,basic,Basic,3.1,TRUE,emailFinder,Email Finder
+,,,,,basicSearch,Basic Search
+,,,,,limitedExport,Limited Export
+Enterprise,enterprise,Enterprise,4.2,TRUE,oktaSso,Okta SSO
+,,,,,saveToBullhorn,Save to Bullhorn
+,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,companyExport,Company Export
+,,,,,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,directDials,Direct Dials
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,apiAccess,API Access
+,,,,,prioritySupport,Priority Support
+,,,,,advancedAnalytics,Advanced Analytics
+,,,,,customIntegrations,Custom Integrations
+,,,,,aiPoweredSearch,AI Powered Search
+,,,,,teamCollaboration,Team Collaboration
+Professional,professional,Professional,4.2,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,advancedSearch,Advanced Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,standardSupport,Standard Support
+,,,,,teamCollaboration,Team Collaboration
+Premium,premium,Premium,4.2,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,advancedSearch,Advanced Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,prioritySupport,Priority Support
+,,,,,advancedAnalytics,Advanced Analytics
+Basic,basic,Basic,4.2,TRUE,emailFinder,Email Finder
+,,,,,basicSearch,Basic Search
+,,,,,limitedExport,Limited Export
+Enterprise,enterprise,Enterprise,5.1,TRUE,oktaSso,Okta SSO
+,,,,,saveToBullhorn,Save to Bullhorn
+,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,companyExport,Company Export
+,,,,,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,directDials,Direct Dials
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,apiAccess,API Access
+,,,,,prioritySupport,Priority Support
+,,,,,advancedAnalytics,Advanced Analytics
+,,,,,customIntegrations,Custom Integrations
+,,,,,aiPoweredSearch,AI Powered Search
+,,,,,teamCollaboration,Team Collaboration
+,,,,,dataEnrichment,Data Enrichment
+,,,,,complianceTools,Compliance Tools
+Professional,professional,Professional,5.1,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,advancedSearch,Advanced Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,standardSupport,Standard Support
+,,,,,teamCollaboration,Team Collaboration
+,,,,,dataEnrichment,Data Enrichment
+Premium,premium,Premium,5.1,TRUE,emailFinder,Email Finder
+,,,,,phoneNumber,Phone Number
+,,,,,companyExport,Company Export
+,,,,,advancedSearch,Advanced Search
+,,,,,salesforceSync,Salesforce Sync
+,,,,,hubspotIntegration,HubSpot Integration
+,,,,,prioritySupport,Priority Support
+,,,,,advancedAnalytics,Advanced Analytics
+,,,,,dataEnrichment,Data Enrichment
