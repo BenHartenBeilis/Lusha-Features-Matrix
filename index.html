@@ -480,33 +480,6 @@
                                     <div>No features match your filter. Try a broader search term.</div>
                                 </div>
                             ) : featureMatrix && featureMatrix.length > 0 ? (
-                            <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-6">
-                                <div className="mb-6">
-                                    <h2 className="text-2xl font-bold text-gray-800 flex items-center gap-3 mb-4">
-                                        📋 <span>Feature Matrix:</span> 
-                                        <span className="text-blue-600">
-                                            {selectedPlan ? `"${selectedPlan}" Plan Analysis` : 'Cross-Version Analysis'}
-                                        </span>
-                                        <span className="text-sm font-normal text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
-                                            {selectedVersions.length} versions • {filteredFeatures.length} features
-                                        </span>
-                                    </h2>
-                                    {selectedPlan && (
-                                        <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-4">
-                                            <div className="text-sm text-blue-800">
-                                                <strong>📍 Plan-Specific View:</strong> Showing features for the "{selectedPlan}" plan across selected versions. 
-                                                <span className="text-blue-600 ml-1">Clear plan selection to see all features across all plans.</span>
-                                            </div>
-                                        </div>
-                                    )}
-                                </div>
-
-                                {filteredFeatures.length === 0 ? (
-                                    <div className="text-center py-12 text-gray-500 bg-gray-50 rounded-lg">
-                                        <div className="text-4xl mb-2">🔍</div>
-                                        <div>No features match your filter. Try a broader search term.</div>
-                                    </div>
-                                ) : featureMatrix && featureMatrix.length > 0 ? (
                                     <div className="overflow-x-auto border rounded-xl shadow-sm">
                                         <table className="min-w-full bg-white">
                                             <thead className="bg-gradient-to-r from-gray-50 to-gray-100">
