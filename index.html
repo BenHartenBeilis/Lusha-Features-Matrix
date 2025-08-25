@@ -55,8 +55,13 @@
 
             const handleFileUpload = (event) => {
                 const file = event.target.files[0];
-                if (!file) return;
+                console.log('File selected:', file);
+                if (!file) {
+                    console.log('No file selected');
+                    return;
+                }
 
+                console.log('Starting file upload process...');
                 setLoading(true);
                 setError(null);
 
@@ -64,6 +69,8 @@
                 reader.onload = (e) => {
                     try {
                         const csvData = e.target.result;
+                        console.log('File read successfully, length:', csvData.length);
+                        console.log('First 200 chars:', csvData.substring(0, 200));
                         
                         // Parse CSV with PapaParse
                         const parsed = Papa.parse(csvData, {
@@ -71,6 +78,8 @@
                             skipEmptyLines: true,
                             transformHeader: (header) => header.trim()
                         });
+                        
+                        console.log('CSV parsed:', parsed);
 
                         if (parsed.errors.length > 0) {
                             console.warn('CSV parsing warnings:', parsed.errors);
@@ -187,7 +196,142 @@
                     }
                 };
 
+                reader.onerror = (error) => {
+                    console.error('FileReader error:', error);
+                    setError(`File reading error: ${error.message}`);
+                    setLoading(false);
+                };
+                
                 reader.readAsText(file);
+            };
+            
+            // Function to load sample data for testing
+            const loadSampleData = async () => {
+                try {
+                    setLoading(true);
+                    setError(null);
+                    console.log('Loading sample data...');
+                    
+                    const response = await fetch('./data/sample-data.csv');
+                    if (!response.ok) {
+                        throw new Error(`Failed to load sample data: ${response.status}`);
+                    }
+                    
+                    const csvData = await response.text();
+                    console.log('Sample data loaded, processing...');
+                    
+                    // Use the same processing logic as file upload
+                    const parsed = Papa.parse(csvData, {
+                        header: true,
+                        skipEmptyLines: true,
+                        transformHeader: (header) => header.trim()
+                    });
+                    
+                    // Continue with the same processing logic as handleFileUpload
+                    const rows = parsed.data;
+                    console.log(`Processing ${rows.length} rows from sample data...`);
+                    
+                    // Process data structure (same as in handleFileUpload)
+                    let structuredData = [];
+                    let currentPlan = null;
+
+                    rows.forEach(row => {
+                        const planName = row.planName || row['Plan Name'];
+                        const pricingVersion = parseFloat(row['Pricing Version'] || row.pricingVersion);
+                        const productCode = row.productCode || row['Product Code'];
+                        const productName = row.productName || row['Product Name'];
+
+                        // Filter out versions < 2.6
+                        if (planName && !isNaN(pricingVersion) && pricingVersion >= 2.6) {
+                            currentPlan = {
+                                planName,
+                                planCode: row.planCode || row['Plan Code'] || '',
+                                planDescription: row.planDescription || row['Plan Description'] || '',
+                                pricingVersion,
+                                planActive: row.planActive === 'TRUE' || row.planActive === 'true' || row.planActive === true,
+                                features: []
+                            };
+                            
+                            if (productCode) {
+                                currentPlan.features.push({
+                                    productCode,
+                                    productName: productName || productCode
+                                });
+                            }
+                            
+                            structuredData.push(currentPlan);
+                        } else if (productCode && currentPlan) {
+                            currentPlan.features.push({
+                                productCode,
+                                productName: productName || productCode
+                            });
+                        }
+                    });
+
+                    // Process features and versions (same logic)
+                    const allFeatures = new Set();
+                    const featuresByVersion = {};
+                    const plansByVersion = {};
+                    const planEvolution = {};
+
+                    structuredData.forEach(plan => {
+                        plan.features.forEach(feature => {
+                            allFeatures.add(feature.productCode);
+                        });
+                        
+                        const versionKey = plan.pricingVersion.toString();
+                        if (!featuresByVersion[versionKey]) {
+                            featuresByVersion[versionKey] = new Set();
+                            plansByVersion[versionKey] = new Set();
+                        }
+                        
+                        plansByVersion[versionKey].add(plan.planName);
+                        plan.features.forEach(feature => {
+                            featuresByVersion[versionKey].add(feature.productCode);
+                        });
+
+                        // Track plan evolution
+                        if (!planEvolution[plan.planName]) {
+                            planEvolution[plan.planName] = {};
+                        }
+                        planEvolution[plan.planName][versionKey] = plan.features.map(f => f.productCode);
+                    });
+
+                    const sortedVersions = Object.keys(featuresByVersion).sort((a, b) => parseFloat(a) - parseFloat(b));
+                    const allPlanNames = [...new Set(structuredData.map(plan => plan.planName))].sort();
+
+                    const processedData = {
+                        plans: structuredData,
+                        allFeatures: Array.from(allFeatures).sort(),
+                        allPlanNames,
+                        planEvolution,
+                        featuresByVersion: Object.fromEntries(
+                            Object.entries(featuresByVersion).map(([version, features]) => [
+                                version, Array.from(features).sort()
+                            ])
+                        ),
+                        plansByVersion: Object.fromEntries(
+                            Object.entries(plansByVersion).map(([version, plans]) => [
+                                version, Array.from(plans).sort()
+                            ])
+                        ),
+                        versions: sortedVersions
+                    };
+
+                    console.log('Sample data processed successfully:', processedData);
+                    
+                    setData(processedData);
+                    setSelectedVersions(processedData.versions.slice(-6));
+                    if (processedData.allPlanNames.length > 0) {
+                        setSelectedPlan(processedData.allPlanNames[0]);
+                    }
+                    setLoading(false);
+                    
+                } catch (error) {
+                    console.error('Error loading sample data:', error);
+                    setError(`Error loading sample data: ${error.message}`);
+                    setLoading(false);
+                }
             };
 
             const filteredFeatures = useMemo(() => {
@@ -292,7 +436,16 @@
                                         </div>
                                     </div>
 
-                                    <div className="mt-8 text-center">
+                                    <div className="mt-8 text-center space-y-4">
+                                        <button
+                                            onClick={loadSampleData}
+                                            className="px-6 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 font-semibold transition-colors shadow-lg"
+                                        >
+                                            🚀 Try Sample Data
+                                        </button>
+                                        <div className="text-sm text-gray-600">
+                                            Want to see how it works? Load our sample dataset first!
+                                        </div>
                                         <div className="inline-flex items-center gap-2 text-sm text-gray-500 bg-gray-50 px-4 py-2 rounded-full">
                                             <span>🔒</span>
                                             <span>Data processed locally • Nothing stored • Privacy-first</span>
