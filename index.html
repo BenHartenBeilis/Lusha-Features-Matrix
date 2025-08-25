@@ -11,7 +11,27 @@
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/papaparse/5.4.1/papaparse.min.js"></script>
+    <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+    <!-- Fallback CDN for PapaParse -->
+    <script>
+        // Ensure PapaParse is loaded, fallback to alternative CDN if needed
+        window.addEventListener('load', function() {
+            if (typeof Papa === 'undefined') {
+                console.warn('Primary PapaParse CDN failed, loading fallback...');
+                const script = document.createElement('script');
+                script.src = 'https://cdnjs.cloudflare.com/ajax/libs/papaparse/5.4.1/papaparse.min.js';
+                script.onload = function() {
+                    console.log('PapaParse loaded from fallback CDN');
+                };
+                script.onerror = function() {
+                    console.error('Failed to load PapaParse from both CDNs');
+                };
+                document.head.appendChild(script);
+            } else {
+                console.log('PapaParse loaded successfully');
+            }
+        });
+    </script>
     
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -58,6 +78,13 @@
                 console.log('File selected:', file);
                 if (!file) {
                     console.log('No file selected');
+                    return;
+                }
+
+                // Check if Papa (PapaParse) is loaded
+                if (typeof Papa === 'undefined') {
+                    console.error('PapaParse library not loaded');
+                    setError('CSV parsing library not loaded. Please refresh the page and try again.');
                     return;
                 }
 
@@ -208,6 +235,13 @@
             // Function to load sample data for testing
             const loadSampleData = async () => {
                 try {
+                    // Check if Papa (PapaParse) is loaded
+                    if (typeof Papa === 'undefined') {
+                        console.error('PapaParse library not loaded');
+                        setError('CSV parsing library not loaded. Please refresh the page and try again.');
+                        return;
+                    }
+
                     setLoading(true);
                     setError(null);
                     console.log('Loading sample data...');
