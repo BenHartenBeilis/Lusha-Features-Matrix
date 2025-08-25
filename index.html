@@ -122,6 +122,9 @@
                     const rows = parsed.data;
                     console.log(`Processing ${rows.length} rows from billing data...`);
                     
+                    // Track plan name normalization
+                    const planNameChanges = new Map();
+                    
                     // Process data structure (same as in handleFileUpload)
                     let structuredData = [];
                     let currentPlan = null;
@@ -142,6 +145,9 @@
                             // Log normalization for debugging
                             if (rawPlanName !== planName) {
                                 console.log(`Normalized plan name: "${rawPlanName}" → "${planName}"`);
+                                if (!planNameChanges.has(rawPlanName)) {
+                                    planNameChanges.set(rawPlanName, planName);
+                                }
                             }
                             
                             currentPlan = {
@@ -219,7 +225,19 @@
                         versions: sortedVersions
                     };
 
-                    console.log('Billing data processed successfully:', processedData);
+                    console.log('Plan name normalization summary:', Array.from(planNameChanges.entries()));
+                    console.log('Billing data processed successfully:', {
+                        plans: processedData.plans.length,
+                        versions: processedData.versions.length,
+                        features: processedData.allFeatures.length,
+                        planTypes: processedData.allPlanNames.length,
+                        planNames: processedData.allPlanNames,
+                        planEvolutionKeys: Object.keys(processedData.planEvolution)
+                    });
+                    
+                    // Debug plan normalization
+                    console.log('Plan Evolution Keys:', Object.keys(processedData.planEvolution));
+                    console.log('All Plan Names:', processedData.allPlanNames);
                     
                     setData(processedData);
                     setSelectedVersions(processedData.versions.slice(-6));
@@ -243,7 +261,17 @@
             }, [data, filterFeatures]);
 
             const planEvolutionData = useMemo(() => {
-                if (!data || !selectedPlan || !data.planEvolution || !data.planEvolution[selectedPlan]) return null;
+                console.log('PlanEvolutionData useMemo triggered:', { selectedPlan, hasData: !!data });
+                if (!data || !selectedPlan || !data.planEvolution || !data.planEvolution[selectedPlan]) {
+                    console.log('PlanEvolutionData conditions:', {
+                        hasData: !!data,
+                        hasSelectedPlan: !!selectedPlan,
+                        hasPlanEvolution: !!(data?.planEvolution),
+                        hasPlanData: !!(data?.planEvolution?.[selectedPlan]),
+                        availablePlans: data?.planEvolution ? Object.keys(data.planEvolution) : []
+                    });
+                    return null;
+                }
 
                 const planVersions = data.planEvolution[selectedPlan];
                 const versionsWithPlan = Object.keys(planVersions).sort((a, b) => parseFloat(a) - parseFloat(b));
@@ -390,7 +418,10 @@
                                     </label>
                                     <select
                                         value={selectedPlan}
-                                        onChange={(e) => setSelectedPlan(e.target.value)}
+                                        onChange={(e) => {
+                                            console.log('Plan selection changed:', e.target.value);
+                                            setSelectedPlan(e.target.value);
+                                        }}
                                         className={`w-full p-3 border-2 rounded-lg focus:ring-2 focus:ring-blue-500 font-medium ${
                                             viewMode === 'plan_evolution' 
                                                 ? 'border-blue-300 bg-blue-50' 
