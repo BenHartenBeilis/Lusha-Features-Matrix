@@ -87,15 +87,32 @@
             const [loading, setLoading] = useState(true); // Start with loading=true
             const [error, setError] = useState(null);
             
-            // Authentication state
-            const [isAuthenticated, setIsAuthenticated] = useState(false);
-            const [user, setUser] = useState(null);
-            const [authLoading, setAuthLoading] = useState(true);
+            // Authentication state - TEMPORARILY DISABLED for immediate access
+            // TODO: Re-enable when Google OAuth Client ID is configured
+            const [isAuthenticated, setIsAuthenticated] = useState(true); // Changed to true for temp access
+            const [user, setUser] = useState({
+                name: "Lusha Employee", 
+                email: "employee@lusha.com", 
+                picture: null
+            }); // Temporary user for testing
+            const [authLoading, setAuthLoading] = useState(false); // Changed to false to skip auth loading
 
+            /* ========== OAUTH AUTHENTICATION CODE - TEMPORARILY DISABLED ==========
+             * 
+             * To re-enable authentication:
+             * 1. Get Google OAuth Client ID from https://console.cloud.google.com/
+             * 2. Replace "YOUR_GOOGLE_CLIENT_ID_HERE" with actual client ID
+             * 3. Set isAuthenticated to useState(false) above
+             * 4. Set authLoading to useState(true) above  
+             * 5. Set user to useState(null) above
+             * 6. Uncomment this useEffect and the auth screens below
+             */
+            
             // Google OAuth configuration
             const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID_HERE"; // Replace with actual client ID
             
-            // Initialize Google OAuth
+            // Initialize Google OAuth - COMMENTED OUT FOR TEMP ACCESS
+            /*
             useEffect(() => {
                 if (typeof google !== 'undefined') {
                     google.accounts.id.initialize({
@@ -124,15 +141,20 @@
                     setTimeout(() => clearInterval(checkGoogle), 10000);
                 }
             }, []);
+            */
 
-            // Auto-load data when authenticated
+            // Auto-load data when authenticated (or immediately for temp access)
             useEffect(() => {
-                if (isAuthenticated) {
-                    loadBillingData();
-                }
-            }, [isAuthenticated]);
+                // Since auth is disabled, load data immediately
+                loadBillingData();
+            }, []); // Removed isAuthenticated dependency for temp access
             
-            // Handle Google OAuth response
+            /* ========== OAUTH HANDLER FUNCTIONS - TEMPORARILY DISABLED ==========
+             * These functions are preserved for when OAuth is re-enabled
+             */
+            
+            // Handle Google OAuth response - COMMENTED OUT FOR TEMP ACCESS
+            /*
             const handleCredentialResponse = (response) => {
                 try {
                     const payload = JSON.parse(atob(response.credential.split('.')[1]));
@@ -160,14 +182,19 @@
                     setError('Authentication failed. Please try again.');
                 }
             };
+            */
             
-            // Sign out function
+            // Sign out function - SIMPLIFIED FOR TEMP ACCESS
             const handleSignOut = () => {
+                // For temp access, just reload the page
+                window.location.reload();
+                /* Original OAuth sign out - uncomment when re-enabling OAuth:
                 google.accounts.id.disableAutoSelect();
                 setIsAuthenticated(false);
                 setUser(null);
                 setData(null);
                 setLoading(true);
+                */
             };
             
             // Data normalization helper function
@@ -392,7 +419,12 @@
                 });
             }, [data, selectedVersions, filteredFeatures, selectedPlan]);
 
-            // Authentication loading screen
+            /* ========== AUTHENTICATION SCREENS - TEMPORARILY DISABLED ==========
+             * Uncomment these sections when re-enabling OAuth authentication
+             */
+            
+            // Authentication loading screen - COMMENTED OUT FOR TEMP ACCESS
+            /*
             if (authLoading) {
                 return (
                     <div className="min-h-screen flex items-center justify-center bg-gray-50">
@@ -405,7 +437,7 @@
                 );
             }
 
-            // Login screen for unauthenticated users
+            // Login screen for unauthenticated users - COMMENTED OUT FOR TEMP ACCESS
             if (!isAuthenticated) {
                 return (
                     <div className="min-h-screen gradient-bg">
@@ -451,6 +483,7 @@
                     </div>
                 );
             }
+            */
 
             // Data loading screen for authenticated users
             if (loading) {
@@ -508,7 +541,7 @@
                                 <div className="flex items-center justify-between">
                                     <h1 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
                                         🔍 <span>Lusha Feature Analysis</span>
-                                        <span className="text-sm bg-green-100 text-green-700 px-2 py-1 rounded-full font-normal">Internal Tool</span>
+                                        <span className="text-sm bg-yellow-100 text-yellow-700 px-2 py-1 rounded-full font-normal">Open Access</span>
                                     </h1>
                                     <div className="flex items-center gap-3">
                                         <div className="text-sm text-green-600 bg-green-50 px-3 py-2 rounded-full font-medium">
@@ -707,7 +740,12 @@
         const root = ReactDOM.createRoot(document.getElementById('root'));
         root.render(<LushaFeatureAnalysis />);
         
-        // Render Google Sign-In button when component mounts
+        /* ========== GOOGLE SIGN-IN BUTTON RENDERING - TEMPORARILY DISABLED ==========
+         * Uncomment when re-enabling OAuth authentication
+         */
+        
+        // Render Google Sign-In button when component mounts - COMMENTED OUT FOR TEMP ACCESS
+        /*
         setTimeout(() => {
             const buttonContainer = document.getElementById('google-signin-button');
             if (buttonContainer && typeof google !== 'undefined' && google.accounts) {
@@ -723,6 +761,7 @@
                 );
             }
         }, 500);
+        */
     </script>
 </body>
 </html>
