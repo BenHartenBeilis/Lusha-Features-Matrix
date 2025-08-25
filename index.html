@@ -3,15 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lusha Feature Fragmentation Analysis Tool</title>
-    <meta name="description" content="Analyze feature fragmentation across Lusha pricing versions with interactive visualizations">
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔍</text></svg>">
+    <title>Lusha Internal Tool</title>
+    <meta name="description" content="Internal Lusha tool - access restricted">
+    
+    <!-- Prevent search engine indexing and discovery -->
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+    <meta name="googlebot" content="noindex, nofollow">
+    <meta name="bingbot" content="noindex, nofollow">
+    <meta name="slurp" content="noindex, nofollow">
+    <meta name="duckduckbot" content="noindex, nofollow">
+    
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔒</text></svg>">
     
     <!-- React & Dependencies -->
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+    
+    <!-- Google OAuth -->
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
     <!-- Fallback CDN for PapaParse -->
     <script>
         // Ensure PapaParse is loaded, fallback to alternative CDN if needed
@@ -72,11 +83,89 @@
             const [filterFeatures, setFilterFeatures] = useState('');
             const [loading, setLoading] = useState(true); // Start with loading=true
             const [error, setError] = useState(null);
+            
+            // Authentication state
+            const [isAuthenticated, setIsAuthenticated] = useState(false);
+            const [user, setUser] = useState(null);
+            const [authLoading, setAuthLoading] = useState(true);
 
-            // Auto-load data on component mount
+            // Google OAuth configuration
+            const GOOGLE_CLIENT_ID = "YOUR_GOOGLE_CLIENT_ID_HERE"; // Replace with actual client ID
+            
+            // Initialize Google OAuth
             useEffect(() => {
-                loadBillingData();
+                if (typeof google !== 'undefined') {
+                    google.accounts.id.initialize({
+                        client_id: GOOGLE_CLIENT_ID,
+                        callback: handleCredentialResponse,
+                        auto_select: false,
+                        cancel_on_tap_outside: false,
+                    });
+                    setAuthLoading(false);
+                } else {
+                    // Wait for Google script to load
+                    const checkGoogle = setInterval(() => {
+                        if (typeof google !== 'undefined') {
+                            google.accounts.id.initialize({
+                                client_id: GOOGLE_CLIENT_ID,
+                                callback: handleCredentialResponse,
+                                auto_select: false,
+                                cancel_on_tap_outside: false,
+                            });
+                            setAuthLoading(false);
+                            clearInterval(checkGoogle);
+                        }
+                    }, 100);
+                    
+                    // Cleanup after 10 seconds
+                    setTimeout(() => clearInterval(checkGoogle), 10000);
+                }
             }, []);
+
+            // Auto-load data when authenticated
+            useEffect(() => {
+                if (isAuthenticated) {
+                    loadBillingData();
+                }
+            }, [isAuthenticated]);
+            
+            // Handle Google OAuth response
+            const handleCredentialResponse = (response) => {
+                try {
+                    const payload = JSON.parse(atob(response.credential.split('.')[1]));
+                    console.log('OAuth payload:', payload);
+                    
+                    // Validate Lusha domain
+                    if (!payload.email || !payload.email.endsWith('@lusha.com')) {
+                        setError('Access restricted to Lusha employees only. Please use your @lusha.com email address.');
+                        return;
+                    }
+                    
+                    // Set authenticated user
+                    setUser({
+                        name: payload.name,
+                        email: payload.email,
+                        picture: payload.picture
+                    });
+                    setIsAuthenticated(true);
+                    setError(null);
+                    
+                    console.log('Authenticated Lusha user:', payload.email);
+                    
+                } catch (error) {
+                    console.error('Error processing authentication:', error);
+                    setError('Authentication failed. Please try again.');
+                }
+            };
+            
+            // Sign out function
+            const handleSignOut = () => {
+                google.accounts.id.disableAutoSelect();
+                setIsAuthenticated(false);
+                setUser(null);
+                setData(null);
+                setLoading(true);
+            };
             
             // Data normalization helper function
             const normalizeString = (str) => {
@@ -300,8 +389,67 @@
                 });
             }, [data, selectedVersions, filteredFeatures, selectedPlan]);
 
-            // This component now auto-loads data, no need for upload UI
+            // Authentication loading screen
+            if (authLoading) {
+                return (
+                    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+                        <div className="text-center">
+                            <div className="animate-spin rounded-full h-16 w-16 border-b-4 border-blue-500 mx-auto mb-4"></div>
+                            <div className="text-xl font-semibold text-gray-700 mb-2">Initializing Authentication...</div>
+                            <div className="text-gray-500">Setting up secure access...</div>
+                        </div>
+                    </div>
+                );
+            }
 
+            // Login screen for unauthenticated users
+            if (!isAuthenticated) {
+                return (
+                    <div className="min-h-screen gradient-bg">
+                        <div className="container mx-auto px-4 py-16">
+                            <div className="text-center text-white mb-12">
+                                <h1 className="text-5xl font-bold mb-4">
+                                    🔒 Lusha Internal Tool
+                                </h1>
+                                <p className="text-xl opacity-90">
+                                    Access restricted to Lusha employees
+                                </p>
+                            </div>
+                            
+                            <div className="max-w-md mx-auto">
+                                <div className="bg-white rounded-2xl shadow-2xl p-8 text-center">
+                                    <div className="text-6xl mb-6">🏢</div>
+                                    <h2 className="text-2xl font-bold text-gray-800 mb-4">
+                                        Lusha Employee Access
+                                    </h2>
+                                    <p className="text-gray-600 mb-6">
+                                        Please sign in with your Lusha Google account to access the Feature Analysis Tool.
+                                    </p>
+                                    
+                                    {error && (
+                                        <div className="bg-red-50 border border-red-200 rounded-lg p-4 mb-6">
+                                            <div className="text-sm text-red-700">{error}</div>
+                                        </div>
+                                    )}
+                                    
+                                    <div id="google-signin-button" className="mb-6"></div>
+                                    
+                                    {GOOGLE_CLIENT_ID === "YOUR_GOOGLE_CLIENT_ID_HERE" && (
+                                        <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4 text-left">
+                                            <div className="text-sm text-yellow-800">
+                                                <strong>Setup Required:</strong> Google OAuth client ID not configured. 
+                                                Please replace the placeholder in the code with your actual Google OAuth client ID.
+                                            </div>
+                                        </div>
+                                    )}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                );
+            }
+
+            // Data loading screen for authenticated users
             if (loading) {
                 return (
                     <div className="min-h-screen gradient-bg">
@@ -357,12 +505,33 @@
                             <div className="flex items-center justify-between">
                                 <h1 className="text-2xl font-bold text-gray-800 flex items-center gap-2">
                                     🔍 <span>Lusha Feature Analysis</span>
-                                    <span className="text-sm bg-green-100 text-green-700 px-2 py-1 rounded-full font-normal">Full Version</span>
+                                    <span className="text-sm bg-green-100 text-green-700 px-2 py-1 rounded-full font-normal">Internal Tool</span>
                                 </h1>
-                                <div className="flex gap-3">
+                                <div className="flex items-center gap-3">
                                     <div className="text-sm text-green-600 bg-green-50 px-3 py-2 rounded-full font-medium">
                                         ✅ {data.plans.length} Plans • {data.versions.length} Versions
                                     </div>
+                                    {user && (
+                                        <div className="flex items-center gap-3">
+                                            <div className="text-sm text-gray-700">
+                                                <span className="font-medium">{user.name}</span>
+                                                <div className="text-xs text-gray-500">{user.email}</div>
+                                            </div>
+                                            {user.picture && (
+                                                <img 
+                                                    src={user.picture} 
+                                                    alt={user.name}
+                                                    className="w-8 h-8 rounded-full"
+                                                />
+                                            )}
+                                            <button
+                                                onClick={handleSignOut}
+                                                className="text-sm text-gray-600 bg-gray-100 px-3 py-2 rounded-full hover:bg-gray-200 font-medium transition-colors"
+                                            >
+                                                Sign Out
+                                            </button>
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         </div>
@@ -535,6 +704,23 @@
 
         const root = ReactDOM.createRoot(document.getElementById('root'));
         root.render(<LushaFeatureAnalysis />);
+        
+        // Render Google Sign-In button when component mounts
+        setTimeout(() => {
+            const buttonContainer = document.getElementById('google-signin-button');
+            if (buttonContainer && typeof google !== 'undefined' && google.accounts) {
+                google.accounts.id.renderButton(
+                    buttonContainer,
+                    {
+                        theme: 'outline',
+                        size: 'large',
+                        type: 'standard',
+                        text: 'signin_with',
+                        width: 250
+                    }
+                );
+            }
+        }, 500);
     </script>
 </body>
 </html>
