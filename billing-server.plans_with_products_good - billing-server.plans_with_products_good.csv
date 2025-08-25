@@ -1,0 +1,3847 @@
+planName,planCode,planDescription,Pricing Version,planActive,,productCode,productName
+Enterprise,enterprise,Enterprise,2.9,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Premium,premium,Premium,2.9,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,saveToOutreach,save to outreach
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,2.9,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Free,free,Free,1,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise,2.95,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,UNLIMITED_CREDITS,ENT_Unlimited Credits
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Premium,premium,Premium,2.95,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,2.95,TRUE,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,2.96,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,2.96,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,2.96,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,2.97,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,2.5,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,teamManagementGroups,Groups management
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Enterprise,enterprise,Enterprise,2.8,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Premium,premium,Premium,2.97,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,2.97,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,2.98,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,2.98,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,2.98,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,unlimitedCreditsThrottling,ENT_Unlimited Throttling
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,UNLIMITED_CREDITS,ENT_Unlimited Credits
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise Scale +,enterprise_scale_plus,Enterprise Scale +,2.98,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,unlimitedCreditsThrottling,ENT_Unlimited Throttling
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,UNLIMITED_CREDITS,ENT_Unlimited Credits
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise,2.7,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Enterprise,enterprise,Enterprise,2.63,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Enterprise,enterprise,Enterprise,2.61,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+professional,professional,professional,2.72,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,2.6,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Professional,professional,India - Base Professional Annual 2-U 1200-C,2.72,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Free,community,Community plan,1,FALSE,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+Premium,premium,Premium,4.1,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.1,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.1,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,professional for marketing campaign Jan 2024,2.961,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium for marketing campaign Jan 2024,2.961,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.4,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.4,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.4,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.2,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.2,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.2,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.3,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,individualCreditPool,Individual Credit Pool
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.3,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.3,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,individualCreditPool,Individual Credit Pool
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium with 10% extra credits (Sales),2.962,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional with 10% extra credits (Sales),2.962,TRUE,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional (Sales 10% credits),4.21,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium (Sales 10% credits),4.21,TRUE,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise,4.5,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.5,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.51,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.51,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.51,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Scale (All Features),scale_all_features,Scale plan with all features opened,2.98,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,intentData,Intent Data
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,salesforceDataEnrichment,ADDON_Salesforce Data Enrich
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,unlimitedCreditsThrottling,ENT_Unlimited Throttling
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,UNLIMITED_CREDITS,ENT_Unlimited Credits
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise,4.6,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.55,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,Professional,4.6,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.55,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.551,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.551,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.551,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.55,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional,4.61,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium  - Fixed seats,4.6,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.61,FALSE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Enterprise,enterprise,Enterprise,4.61,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,0.03,FALSE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium,4.61,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Scale Free Trial Plan,nonsplit_scale_free_trial,Scale Free Trial,0,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,scaleFreeTrial,Sscale Free Trial
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Scale Free Trial - Features Only,nonsplit_scale_free_trial,Scale Free Trial,0,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,scaleFreeTrial,Sscale Free Trial
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,Professional - One wallet control,0.3,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Premium,premium,Premium  - One wallet control,4.65,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional - One Wallet Control,4.65,TRUE,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,showSpecificDataPoints,Show Specific Data Points
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Professional,professional,Professional - One Wallet,4.7,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,4.65,TRUE,,oktaSso,Okta SSO
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,showBlockedContacts,Show blocked contacts
+Free,free_onewallet,Free OneWallet,1,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Scale (All Features),scale_all_features,Scale plan with all features opened,4.7,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,intentData,Intent Data
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise,4.7,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Professional - One Wallet sales link,4.71,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - One wallet sales link,4.71,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Professional - One Wallet 19.90,4.75,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - One wallet 19.90,4.75,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,4.75,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - One wallet,4.7,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Professional - One Wallet 29.90,4.76,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,4.76,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - One wallet 29.90,4.76,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,5.1,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - Two plans,5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium - One plan 29.90,5.1,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,onePlan,One plan
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Professional - Two plans 29.90,5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,5,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium  - Two plans,5.11,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Professional - Two plans 29.90,5.11,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Legacy and split migration,5.21,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Legacy and split migrations,5.21,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium - 1-5 unlimited users,5.3,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,onePlan,One plan
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise - 1-5 unlimited users,5.4,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium - 1-5 5 users,5.4,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,onePlan,One plan
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise - 1-5 unlimited users,5.3,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Premium - 1-5 unlimited users - saleslink,5.31,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,onePlan,One plan
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Scale (All Features),scale_all_features,Scale plan with all features opened,5.3,TRUE,,oktaSso,Okta SSO
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,intentData,Intent Data
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Premium,premium,v5.5 Premium - 1-5 increased price ppc,5.5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,v5.52 Professional - 1-5 PPC Increase + export,5.52,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,v5.5 Enterprise,5.5,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,v5.5 Professional - 1-5 PPC Increase,5.5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,v5.52 Premium - 1-5 increased price ppc + export,5.52,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Migration: v4.75 -> pro v5.25 (1-5 phones),5.25,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Migration: v4.75 -> pro v5.25 (1-5 phones),5.25,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise,5.25,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Scale (All Features),scale_all_features,Scale plan with all features opened,5.5,TRUE,,oktaSso,Okta SSO
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,intentData,Intent Data
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Free,free_one_wallet_free_export,Free OneWallet Free Export,5.5,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Free,free_one_wallet_export_credits,Free OneWallet Export credits,5.52,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,v5.52 Enterprise,5.52,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,v5.522 Premium - partners link,5.522,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,v5.52 Professional - Partners links,5.522,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise (for pricing page migration),5.21,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Legacy and split migration extra seats,5.22,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,Legacy and split migrations extra seats,5.22,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Premium,premium,Legacy and split migration unlimited emails,5.23,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,Legacy and split migrations unlimited emails,5.23,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,Enterprise - migration (for pricing page),5.23,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Enterprise,enterprise,Enterprise - migration (for pricing page),5.22,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+,,,,,,conversations,conversations
+Professional,professional,August promotion,5.523,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Premium,premium,August promotion,5.523,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Free,free_one_wallet_export_credits,Free OneWallet Export credits,5.523,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,August promotion,5.523,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Scale (All Features),scale_all_features,Scale plan with all features opened,5.52,TRUE,,oktaSso,Okta SSO
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,intentData,Intent Data
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,prospectingApi,ADDON_Prospecting API
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,intentData25Topics,ADDON_Intent Data - 25 topics
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+Premium,premium,v5.521 Premium - sales link,5.521,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,apiLiveCrmEnrichment,Lusha API
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,v5.52 Professional - Sales links,5.521,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Enterprise,enterprise,August promotion,5.521,TRUE,,oktaSso,Okta SSO
+,,,,,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,usageAnalyticsAdvanced,Advanced usage analytics
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,limitedBulkCsvEnrich,Limited bulk csv enrich
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,managerSeat,ENT_Manager seat
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,idleTimeManagement,Idle Time Management
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,teamManagementGroups,Groups management
+,,,,,,wishedContactsExport,Wished contacts save and expor
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,unlimitedBulkCsvEnrich,unlimited bulk csv enrich
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,doNotCallList,Do Not Call Lists
+,,,,,,bulkEnrich,Bulk Enrich
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,teamManagementCreditLimits,Manage credit limits
+,,,,,,unlimitedBulkEnrich,Unlimited Bulk Enrich
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Free,free_one_wallet_export_credits,Free OneWallet Export credits,5.521,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,automaticAddToList,Automatic Similar in saved list
+Professional,professional,v5.52 Professional - 1-5 PPC Increase + export,5.524,TRUE,,manualAddToRec,Manual Add more in Recommendation list
+,,,,,,conversations,conversations
+,,,,,,saveToBullhorn,save to bullhorn
+,,,,,,bulkShowProspecting,Bulk Show Prospecting
+,,,,,,companyExport,Company export
+,,,,,,dataChangeAlerts,Job change alerts
+,,,,,,csvEnrichment,CSV Enrichment
+,,,,,,intentLimitedResults,Limit for intent results
+,,,,,,saveToCrm,Save To CRM
+,,,,,,saveToSalesforce,save to salesforce
+,,,,,,jobChangeFilter,ADDON_Job Change Filter
+,,,,,,regenerateSimilarPreview,Regenerate action in similar preview
+,,,,,,saveToSalesloft,save to salesloft
+,,,,,,contactRefreshData,Contact Refresh Data
+,,,,,,intentData5Topics,ADDON_Intent Data 5 Topics
+,,,,,,manualAddToList,Manual Similar in saved list
+,,,,,,rolloverCredits,Rollover credits
+,,,,,,dynamicPricing,Dynamic Pricing
+,,,,,,saveToDynamics,Save To MS Dynamics
+,,,,,,usageReportExport,Usage Report CSV Export
+,,,,,,engageSequences,Engage Sequences
+,,,,,,publicApi,Public API
+,,,,,,usageReports_byMail,Report Settings By Email
+,,,,,,fundingFilter,ADDON_Funding Filter
+,,,,,,teamManagementGroups,Groups management
+,,,,,,pluginBulkView,Plugin Bulk View
+,,,,,,saveToZoho,save to zoho
+,,,,,,saveToHubspot,save to hubspot
+,,,,,,saveToPipedrive,save to pipedrive
+,,,,,,technographicsFilter,ADDON_Technographics Filter
+,,,,,,usageAnalytics,Usage Analytics
+,,,,,,saveToOutreach,save to outreach
+,,,,,,contactExport,List export
+,,,,,,oneWallet,One Wallet
+,,,,,,showBlockedContacts,Show blocked contacts
+,,,,,,automaticAddToList,Automatic Similar in saved list
