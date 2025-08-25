@@ -75,11 +75,11 @@
 
             // Auto-load data on component mount
             useEffect(() => {
-                loadSampleData();
+                loadBillingData();
             }, []);
             
-            // Function to load sample data for testing
-            const loadSampleData = async () => {
+            // Function to load billing data
+            const loadBillingData = async () => {
                 try {
                     // Check if Papa (PapaParse) is loaded
                     if (typeof Papa === 'undefined') {
@@ -90,15 +90,15 @@
 
                     setLoading(true);
                     setError(null);
-                    console.log('Loading sample data...');
+                    console.log('Loading billing data...');
                     
-                    const response = await fetch('./data/sample-data.csv');
+                    const response = await fetch('./billing-server.plans_with_products_good - billing-server.plans_with_products_good.csv');
                     if (!response.ok) {
-                        throw new Error(`Failed to load sample data: ${response.status}`);
+                        throw new Error(`Failed to load billing data: ${response.status}`);
                     }
                     
                     const csvData = await response.text();
-                    console.log('Sample data loaded, processing...');
+                    console.log('Billing data loaded, processing...');
                     
                     // Use the same processing logic as file upload
                     const parsed = Papa.parse(csvData, {
@@ -109,7 +109,7 @@
                     
                     // Continue with the same processing logic as handleFileUpload
                     const rows = parsed.data;
-                    console.log(`Processing ${rows.length} rows from sample data...`);
+                    console.log(`Processing ${rows.length} rows from billing data...`);
                     
                     // Process data structure (same as in handleFileUpload)
                     let structuredData = [];
@@ -198,7 +198,7 @@
                         versions: sortedVersions
                     };
 
-                    console.log('Sample data processed successfully:', processedData);
+                    console.log('Billing data processed successfully:', processedData);
                     
                     setData(processedData);
                     setSelectedVersions(processedData.versions.slice(-6));
@@ -208,8 +208,8 @@
                     setLoading(false);
                     
                 } catch (error) {
-                    console.error('Error loading sample data:', error);
-                    setError(`Error loading sample data: ${error.message}`);
+                    console.error('Error loading billing data:', error);
+                    setError(`Error loading billing data: ${error.message}`);
                     setLoading(false);
                 }
             };
@@ -293,7 +293,7 @@
                                     <div className="text-sm text-red-700">{error}</div>
                                 </div>
                                 <button
-                                    onClick={() => {setError(null); setData(null); loadSampleData();}}
+                                    onClick={() => {setError(null); setData(null); loadBillingData();}}
                                     className="px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 font-semibold"
                                 >
                                     Reload Data
